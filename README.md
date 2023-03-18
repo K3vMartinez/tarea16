@@ -44,7 +44,7 @@ Plantar | Podar | Fertilizar | 14:00
 Comer | Comer | Comer | 15:00
 
 ## Información
-[README.md](informacion.md)
+[Info](informacion.md)
 
 ## Instalacion
-[README.md](/instalacion.md)
+[Install](/instalacion.md)
